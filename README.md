@@ -38,7 +38,7 @@ It showcases **secure authentication, smooth GUI handling, and database integrat
 1. **Install Requirements:**  
    - Java Development Kit (JDK 8 or later)  
    - Apache Ant  
-   - MySQL database with a `signup1` table  
+   - MySQL database 
 
 2. **Clone Repository:**  
    ```bash
