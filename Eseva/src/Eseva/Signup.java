@@ -138,7 +138,7 @@ public class Signup extends JFrame implements ActionListener {
                 return;
             }
 
-            String sql = "INSERT INTO signup1 (username, name, password, question, answer) VALUES (?,?,?,?,?)";
+            String sql = "INSERT INTO signup1 (username, name, password, security, answer) VALUES (?,?,?,?,?)";
             
             try {
                 Conn db = new Conn();
